@@ -35,3 +35,5 @@ Step 5: Open file: PythonDeveloperTest_1.ipynb
 
 ![alt text](./result/result_with_img1.png)
 
+3) Data Augementation (see directly in jupyter notebook).
+
