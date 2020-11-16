@@ -23,4 +23,5 @@ Step 4: Run a command:  <br />
         ``` 
         jupyter-notebook
         ```
+Step 5: Open file: PythonDeveloperTest_1.ipynb
 
