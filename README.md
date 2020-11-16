@@ -28,7 +28,10 @@ Step 5: Open file: PythonDeveloperTest_1.ipynb
 
 ## Result
 1) Generate image with background (No letter).
+
 ![alt text](./result/result_with_img.png)
+
 2) Generate image with background (letter).
+
 ![alt text](./result/result_with_img1.png)
 
