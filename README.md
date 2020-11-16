@@ -8,15 +8,15 @@ There are three parts:
 
 ## Step by Step 
 Step 1: Create an environment by conda <br />
-        ''' json 
+        ```json 
         conda create -n test python=3.8 
-        ''' <br />
+        ``` <br />
 Step 2: Activate an enviroment <br />
-        ''' json 
+        ```json
         conda activate test
-        ''' <br />
+        ``` <br />
 Step 3: Install Library <br />
-        ''' json 
+        ```json
         pip install -r requirement.txt
-        ''' <br />
+        ``` <br />
 
