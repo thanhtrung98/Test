@@ -31,8 +31,8 @@ Step 5: Open file: PythonDeveloperTest_1.ipynb
 
 | Content | Image|
 | ------------- | ------------- |
-|  1) Generate image with background (No letter). | ![alt text](./result/result_with_img.png)  |
-| 2) Generate image with background (letter).  | ![alt text](./result/result_with_img1.png) |
+|  1) Result of image with background (No letter). | ![alt text](./result/result_with_img.png)  |
+| 2) Result of image with background (letter).  | ![alt text](./result/result_with_img1.png) |
 | 3) Data Augementation     | (see result directly in jupyter notebook).  |
 
 
