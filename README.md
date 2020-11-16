@@ -23,7 +23,7 @@ Step 3: Install Library <br />
 Step 4: Run a command:  <br />
         ``` 
         jupyter-notebook
-        ```
+        ``` <br />
 Step 5: Open file: PythonDeveloperTest_1.ipynb
 
 ## Result
