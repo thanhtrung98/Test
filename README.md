@@ -5,10 +5,12 @@ There are three parts:
 2) Generate similiar image with background (letter).
 ![alt text](./background/img1.png)
 3) Data Augmentation with Pillow.
-# Create an environment by conda
+
+## Step by Step 
+Step 1: Create an environment by conda
 conda create -n test python=3.8
-# After that, Activate an environment
+Step 2: Activate an enviroment
 conda activate test
-# Install Library
+Step 3: Install Library
 pip install -r requirement.txt
 
