@@ -1,4 +1,5 @@
 # Appman_test
+## Description
 There are three parts:
 1) Generate similiar image with background (No letter).
 ![alt text](./background/img.jpg)
@@ -24,4 +25,10 @@ Step 4: Run a command:  <br />
         jupyter-notebook
         ```
 Step 5: Open file: PythonDeveloperTest_1.ipynb
+
+## Result
+1) Generate image with background(no letter)
+![alt text](./result/result_with_img.png)
+2) Generate image with background(letter)
+![alt text](./result/result_with_img1.png)
 
