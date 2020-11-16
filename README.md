@@ -19,7 +19,7 @@ Step 3: Install Library <br />
         ```
         pip install -r requirement.txt
         ``` <br />
-Step 4: Run a command:
+Step 4: Run a command:  <br />
         ``` 
         jupyter-notebook
         ```
