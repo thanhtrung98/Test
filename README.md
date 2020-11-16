@@ -23,7 +23,7 @@ Step 3: Install Library <br />
         ```
         cd Appman_test ```<br />
         ```
-        pip install -r requirement.txt
+        pip install -r requirements.txt
         ``` <br />
 Step 4: Run a command:  <br />
         ``` 
