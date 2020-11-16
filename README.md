@@ -7,10 +7,10 @@ There are three parts:
 3) Data Augmentation with Pillow.
 
 ## Step by Step 
-Step 1: Create an environment by conda
-conda create -n test python=3.8
-Step 2: Activate an enviroment
-conda activate test
-Step 3: Install Library
-pip install -r requirement.txt
+Step 1: Create an environment by conda \n
+conda create -n test python=3.8 \n
+Step 2: Activate an enviroment \n
+conda activate test \n
+Step 3: Install Library \n
+pip install -r requirement.txt \n
 
