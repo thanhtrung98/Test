@@ -18,7 +18,7 @@ Step 2: Activate an enviroment <br />
         conda activate test
         ``` <br />
 Step 3 git clone repo<br />
- ```git clone https://github.com/thanhtrung98/Appman_test.git``` <br />
+ ```git clone https://github.com/thanhtrung98/Test.git``` <br />
 Step 3: Install Library <br />
         ```
         cd Appman_test ```<br />
